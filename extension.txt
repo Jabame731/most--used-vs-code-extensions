@@ -1,0 +1,18 @@
+hello good day this is my used VScode extension
+
+--jabame--
+
+
+AUTO CLOSE TAG -JUN HAN
+CODE RUNNER - JUN HAN
+DotENV - mikestead
+ES7+ React/Redux/React-Native snippets - DigitalBrainstem
+ESLint - Microsoft
+gitignore - CodeZombie
+JavaScript (ES6) code snippets - charalampos karydipis
+Live Server - Ritwick Dey
+PHP Intelphense - Ben Mewburn
+PostCss Language Support - csstools
+Prettier - prettier
+stylelint-plus - Hex
+Tailwind CSS IntelliSense - Tailwind Labs
